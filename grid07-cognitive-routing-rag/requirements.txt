@@ -6,3 +6,4 @@ faiss-cpu
 python-dotenv
 pydantic
 numpy
+streamlit
